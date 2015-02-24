@@ -12,6 +12,7 @@ Run:
 ```
 python server.py
 ```
+See the video here: [http://localhost:8888](http://localhost:8888)
 
 Requirements:
 -----
