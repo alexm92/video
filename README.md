@@ -1,5 +1,4 @@
-# video
-Video
+# Video
 
 ```
 # Convert the video
